@@ -49,5 +49,3 @@ mat <- apply(X = result, c(1,2), decode)
 # passage des secondes en minutes
 matG <- round(mat/60, 0)
 matG[1:5,1:5]
-
-
