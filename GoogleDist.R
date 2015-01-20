@@ -1,7 +1,3 @@
-
-
-
-
 # librairies
 library(RCurl)
 library(RJSONIO)
